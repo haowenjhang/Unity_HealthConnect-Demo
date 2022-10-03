@@ -1,0 +1,223 @@
+Unity Editor version:    2020.3.21f1 (a38c86f6690f)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.5 (Build 21G72)
+Darwin version:          21.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        20480 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ible.mis38/Documents/haowenjhang/UnityProjects/Android_HealthConnect
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65462
+Successfully changed project path to: /Users/ible.mis38/Documents/haowenjhang/UnityProjects/Android_HealthConnect
+/Users/ible.mis38/Documents/haowenjhang/UnityProjects/Android_HealthConnect
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 62.08 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.21f1 (a38c86f6690f)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ible.mis38/Documents/haowenjhang/UnityProjects/Android_HealthConnect/Assets
+GfxDevice: creating device client; threaded=0
+2022-10-03 10:40:26.942 Unity[9347:546788] 24B1W preferred device: Intel(R) UHD Graphics 630 (low power)
+2022-10-03 10:40:26.942 Unity[9347:546788] Metal devices available: 1
+2022-10-03 10:40:26.942 Unity[9347:546788] 0: Intel(R) UHD Graphics 630 (low power)
+2022-10-03 10:40:26.942 Unity[9347:546788] Using device Intel(R) UHD Graphics 630 (low power)
+Initializing Metal device caps: Intel(R) UHD Graphics 630
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56347
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.002896 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 30.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  9.601 seconds
+Domain Reload Profiling:
+	ReloadAssembly (9601ms)
+		BeginReloadAssembly (54ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (561ms)
+			LoadAssemblies (55ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (193ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (212ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (30ms)
+				BeforeProcessingInitializeOnLoad (32ms)
+				ProcessInitializeOnLoadAttributes (110ms)
+				ProcessInitializeOnLoadMethodAttributes (34ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007369 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.213 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1215ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (26ms)
+		EndReloadAssembly (987ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (342ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (62ms)
+			SetupLoadedEditorAssemblies (364ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (83ms)
+				ProcessInitializeOnLoadAttributes (260ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000170 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.000195 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.21f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Initializing Unity extensions:
+2022-10-03 10:40:38.787 Unity[9347:546788] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600004abf2c0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2022-10-03 10:40:38.790 Unity[9347:546788] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600004a8eb50 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1489 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 184.3 MB.
+System memory in use after: 183.5 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 1960.
+Total: 3.281450 ms (FindLiveObjects: 0.151152 ms CreateObjectMapping: 0.047151 ms MarkObjects: 2.595374 ms  DeleteObjects: 0.486950 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scritps
+  artifactKey: Guid(0b26fccb7cfaa4086b1337022812861e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scritps using Guid(0b26fccb7cfaa4086b1337022812861e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '020a58b1c3c482dc1fe2c56eba1747a2') in 0.006099 seconds 
+  Import took 0.010092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.453865 seconds.
+  path: Assets/Android
+  artifactKey: Guid(fc73eed325c694e41ba721422a49bea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Android using Guid(fc73eed325c694e41ba721422a49bea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3373d8a43d188740581bf74bb5dde586') in 0.001686 seconds 
+  Import took 0.004085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.035338 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(2e8b9077746a44b2a959541628af2d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(2e8b9077746a44b2a959541628af2d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a70bd460b6aa6a11953f1a707d5036fe') in 0.002345 seconds 
+  Import took 0.006063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.009722 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(a50f6715f03b54f83b3f9855204159cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(a50f6715f03b54f83b3f9855204159cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3c978548040fcf34187b4d0e576ec1d') in 0.002061 seconds 
+  Import took 0.005479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.562711 seconds.
+  path: Assets/Scenes/MainScene.unity
+  artifactKey: Guid(6434e5efb2eb8493abce79a17aa1e756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainScene.unity using Guid(6434e5efb2eb8493abce79a17aa1e756) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f70f60333067044f02d586559213b11a') in 0.012429 seconds 
+  Import took 0.014838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.201179 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4117949e0339a76e1273fc1aff5814aa') in 0.003317 seconds 
+  Import took 0.006387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 175.709464 seconds.
+  path: Assets/UI
+  artifactKey: Guid(62602ca755caf44049ec8e506570629b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI using Guid(62602ca755caf44049ec8e506570629b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cba4cb1125107200659c991e58c067') in 0.002394 seconds 
+  Import took 0.005887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.519566 seconds.
+  path: Assets/UI/health_connect_logo_192pxnew.png
+  artifactKey: Guid(eff08e19ebc17430eb37d4705339658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/health_connect_logo_192pxnew.png using Guid(eff08e19ebc17430eb37d4705339658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '481f9a7a79a545cb0b3a49d6406ea079') in 0.711385 seconds 
+  Import took 0.714303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.400692 seconds.
+  path: Assets/UI/health_connect_logo_192pxnew.png
+  artifactKey: Guid(eff08e19ebc17430eb37d4705339658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/health_connect_logo_192pxnew.png using Guid(eff08e19ebc17430eb37d4705339658e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ada54c91ded2eea80798acdbda616d1b') in 0.112314 seconds 
+  Import took 0.115822 seconds .
+
